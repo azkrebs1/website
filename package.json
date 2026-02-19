@@ -15,6 +15,11 @@
     "react": "19.2.3",
     "react-dom": "19.2.3"
   },
+  "overrides": {
+    "@foldset/nextjs": {
+      "@foldset/core": "0.1.1"
+    }
+  },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
